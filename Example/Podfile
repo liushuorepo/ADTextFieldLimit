@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ADTextFieldLimit_Example' do
+  pod 'ADTextFieldLimit', :path => '../'
+
+  target 'ADTextFieldLimit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
