@@ -1,0 +1,16 @@
+PODS:
+  - ADTextFieldLimit (0.1.0)
+
+DEPENDENCIES:
+  - ADTextFieldLimit (from `../`)
+
+EXTERNAL SOURCES:
+  ADTextFieldLimit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ADTextFieldLimit: aed72614b87255e2aae07fe4fc738bf80fcfa110
+
+PODFILE CHECKSUM: bb6da949be1f330f9824148eaaa64799355fbab0
+
+COCOAPODS: 1.2.1

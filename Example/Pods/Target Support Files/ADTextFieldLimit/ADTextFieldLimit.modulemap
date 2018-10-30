@@ -1,0 +1,6 @@
+framework module ADTextFieldLimit {
+  umbrella header "ADTextFieldLimit-umbrella.h"
+
+  export *
+  module * { export * }
+}
