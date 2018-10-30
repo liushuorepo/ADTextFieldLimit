@@ -22,7 +22,7 @@ pod 'ADTextFieldLimit'
 
 ## Author
 
-13124832031@163.com, liushuo@alaxiaoyou.com
+13124832031@163.com
 
 ## License
 

@@ -18,7 +18,6 @@
 		636F38175536E11B1CEFE824390B1DCA /* ADTextFieldLimit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 012C65388074BD259753196D08862134 /* ADTextFieldLimit-dummy.m */; };
 		70A9C81DD47BC78FD6E651A78AB1ECED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		B65D1F9633D2CD1CD80AD8BF5A18A0C5 /* Pods-ADTextFieldLimit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E69807A943209889611112CD7467E4E /* Pods-ADTextFieldLimit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D126B375B4A716A6A242F1B506213894 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = C799130AE334756ECBAC698B6AE35619 /* ReplaceMe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +59,6 @@
 		A29E734B24214CA8A4B01F70D2BA187C /* ADTextFieldLimit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ADTextFieldLimit-prefix.pch"; sourceTree = "<group>"; };
 		A30B76E1C9902DBE1C95C69F0C883A61 /* Pods-ADTextFieldLimit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ADTextFieldLimit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		C6CD6355E16B3BDDB8AB7727FE9B6BED /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C799130AE334756ECBAC698B6AE35619 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		CA929B13A7F79E19B94CBC8F950594C8 /* Pods_ADTextFieldLimit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ADTextFieldLimit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0805B21B48E6AFCE7988433E2662144 /* Pods-ADTextFieldLimit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ADTextFieldLimit_Example.modulemap"; sourceTree = "<group>"; };
 		E451915FACBFF2B1A585BD1D9A9B3F41 /* Pods-ADTextFieldLimit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ADTextFieldLimit_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -205,7 +203,6 @@
 			children = (
 				4D9D2A482188515900EC3435 /* ADTextFieldLimit.h */,
 				4D9D2A472188515900EC3435 /* ADTextFieldLimit.m */,
-				C799130AE334756ECBAC698B6AE35619 /* ReplaceMe.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -362,7 +359,6 @@
 			files = (
 				4D9D2A492188515900EC3435 /* ADTextFieldLimit.m in Sources */,
 				636F38175536E11B1CEFE824390B1DCA /* ADTextFieldLimit-dummy.m in Sources */,
-				D126B375B4A716A6A242F1B506213894 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
